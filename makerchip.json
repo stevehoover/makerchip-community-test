@@ -1,0 +1,10 @@
+{"demo":
+  {"root": ".",
+   "thumb":"thumb.png",
+   "desc": "Description.",
+   "details": "Details",
+   "docs": "README.md",
+   "src":"my.tlv",
+   "editorID":"0NDcp"},
+  "implementations":{}
+  }
